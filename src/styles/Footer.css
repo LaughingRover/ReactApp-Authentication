@@ -1,0 +1,25 @@
+footer {
+	width: 100vw;
+	height: 5rem;
+	margin-top: 390px;
+	padding: 0 8.3rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.page-links {
+	width: 11rem;
+	font-size: 0.7rem;
+	display: flex;
+	justify-content: space-between;
+}
+
+.page-links a {
+	color: var(--page-links-grey);
+}
+
+.icon img{
+	height: 1rem;
+	width: 1rem;
+}

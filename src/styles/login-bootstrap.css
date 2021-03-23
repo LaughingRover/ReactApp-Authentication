@@ -1,0 +1,118 @@
+@import '../styles/global.css';
+
+/* main section */
+section.login-card {
+	width: 575px;
+	height: 385px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+	position: absolute;
+	margin: -2.3rem 0 0 23.5rem;
+	border-radius: 15px;
+	background-color: var(--card-bg);
+}
+
+.login {
+	width: 100%;
+	height: 100%;
+	padding: 3rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.login-header h1{
+  margin-top: -0.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.3rem;
+}
+
+.login-header p {
+  font-size: 0.8rem;
+  margin-bottom: 0.5rem;
+}
+
+.login-header p a {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--higlight-tq);
+}
+
+.login-header p a:hover {
+  text-decoration: underline;
+}
+
+
+.input-style {
+  padding: 0.7rem 0.5rem;
+  font-size: 0.65rem;
+  border: none;
+  border-radius: 6px;
+  outline: none;
+  background-color: var(--input);
+}
+
+.input-style::placeholder {
+  color: var(--text-white);
+}
+
+
+
+/* dividing line */
+.divider {
+  margin-top: 1rem;
+  font-size: 0.65rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div.divider p {
+  padding: 0 0.4rem;
+}
+
+hr {
+  width: 3.2rem;
+  border: 1px solid var(--page-links-grey);;
+}
+
+
+
+/* Single sign-in option with google or facebook */
+.sso {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.sso-btn {
+  width: 5.5rem;
+  padding: 0.7rem 0.5rem;
+  text-align: center;
+  border: none;
+  border-radius: 15px;
+  font-size: 0.65rem;
+  color: var(--text-white);
+  background-color: var(--input);
+}
+
+.close-btn-wrap{
+  height: 3rem;
+  display: block;
+  position: relative;
+  left: 230px;
+  top: 20px;
+}
+
+.close-btn {
+  height: 2rem;
+  left: 6;
+}
+
+.side-image {
+  display: block;
+  position: relative;
+  bottom: -65px;
+  width: 70%;
+  height: 90%;
+}

@@ -1,0 +1,84 @@
+/* keep me signed  */
+.kmsi {
+	width: 100%;
+	height: 2rem;
+	font-size: 0.7rem;
+  display: flex;
+  align-items: center;
+}
+
+.kmsi-text {
+  vertical-align: middle;
+}
+
+
+/* The container */
+.container {
+  display: block;
+  position: relative;
+  height: 1.5rem;
+  padding-left: 35px;
+  padding-top: 5px;
+  cursor: pointer;
+  font-size: 0.7rem;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 1.5rem;
+  width: 1.5rem;
+	border: none;
+	border-radius: 2px;
+  background-color: var(--text-white);
+}
+
+/* On mouse-over, add a grey background color */
+.container:hover input ~ .checkmark {
+  background-color: var(--page-links-grey);
+}
+
+/* When the checkbox is checked, add a torquoise background */
+.container input:checked ~ .checkmark {
+  background-color: var(--higlight-tq);
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.container .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid var(--body-bg);
+  border-width: 0 1px 1px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}

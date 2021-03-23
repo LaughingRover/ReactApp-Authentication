@@ -1,0 +1,804 @@
+{
+	"students": [
+		{
+			"id": 1,
+			"first_name": "Jacqueline",
+			"last_name": "Vickerstaff",
+			"email": "jvickerstaff0@nbcnews.com",
+			"gender": "Genderqueer",
+			"class": 1
+		},
+		{
+			"id": 2,
+			"first_name": "Giustina",
+			"last_name": "Crowley",
+			"email": "gcrowley1@ezinearticles.com",
+			"gender": "Genderqueer",
+			"class": 6
+		},
+		{
+			"id": 3,
+			"first_name": "Son",
+			"last_name": "Rea",
+			"email": "srea2@plala.or.jp",
+			"gender": "Polygender",
+			"class": 6
+		},
+		{
+			"id": 4,
+			"first_name": "Gael",
+			"last_name": "Kirkman",
+			"email": "gkirkman3@cisco.com",
+			"gender": "Genderfluid",
+			"class": 4
+		},
+		{
+			"id": 5,
+			"first_name": "See",
+			"last_name": "De'Ath",
+			"email": "sdeath4@cdbaby.com",
+			"gender": "Non-binary",
+			"class": 3
+		},
+		{
+			"id": 6,
+			"first_name": "Lenard",
+			"last_name": "Stonary",
+			"email": "lstonary5@shop-pro.jp",
+			"gender": "Non-binary",
+			"class": 5
+		},
+		{
+			"id": 7,
+			"first_name": "Leonie",
+			"last_name": "Savary",
+			"email": "lsavary6@seesaa.net",
+			"gender": "Agender",
+			"class": 6
+		},
+		{
+			"id": 8,
+			"first_name": "Donaugh",
+			"last_name": "Matveyev",
+			"email": "dmatveyev7@youtube.com",
+			"gender": "Female",
+			"class": 4
+		},
+		{
+			"id": 9,
+			"first_name": "Claribel",
+			"last_name": "Hawsby",
+			"email": "chawsby8@illinois.edu",
+			"gender": "Female",
+			"class": 6
+		},
+		{
+			"id": 10,
+			"first_name": "Prent",
+			"last_name": "Blues",
+			"email": "pblues9@hostgator.com",
+			"gender": "Genderfluid",
+			"class": 5
+		},
+		{
+			"id": 11,
+			"first_name": "Sawyer",
+			"last_name": "Curtiss",
+			"email": "scurtissa@plala.or.jp",
+			"gender": "Agender",
+			"class": 4
+		},
+		{
+			"id": 12,
+			"first_name": "Rhody",
+			"last_name": "Ranyard",
+			"email": "rranyardb@dot.gov",
+			"gender": "Polygender",
+			"class": 3
+		},
+		{
+			"id": 13,
+			"first_name": "Eziechiele",
+			"last_name": "Bickersteth",
+			"email": "ebickerstethc@gnu.org",
+			"gender": "Bigender",
+			"class": 5
+		},
+		{
+			"id": 14,
+			"first_name": "Ivie",
+			"last_name": "Linne",
+			"email": "ilinned@printfriendly.com",
+			"gender": "Polygender",
+			"class": 3
+		},
+		{
+			"id": 15,
+			"first_name": "Rowen",
+			"last_name": "Elwel",
+			"email": "relwele@hubpages.com",
+			"gender": "Genderfluid",
+			"class": 5
+		},
+		{
+			"id": 16,
+			"first_name": "Der",
+			"last_name": "Bouskill",
+			"email": "dbouskillf@who.int",
+			"gender": "Bigender",
+			"class": 6
+		},
+		{
+			"id": 17,
+			"first_name": "Kip",
+			"last_name": "Riseborough",
+			"email": "kriseboroughg@paginegialle.it",
+			"gender": "Genderqueer",
+			"class": 5
+		},
+		{
+			"id": 18,
+			"first_name": "Adan",
+			"last_name": "Tunsley",
+			"email": "atunsleyh@hp.com",
+			"gender": "Agender",
+			"class": 4
+		},
+		{
+			"id": 19,
+			"first_name": "Roxy",
+			"last_name": "Leetham",
+			"email": "rleethami@tuttocitta.it",
+			"gender": "Agender",
+			"class": 1
+		},
+		{
+			"id": 20,
+			"first_name": "Skye",
+			"last_name": "Asals",
+			"email": "sasalsj@cafepress.com",
+			"gender": "Male",
+			"class": 1
+		},
+		{
+			"id": 21,
+			"first_name": "Kellie",
+			"last_name": "Tarpey",
+			"email": "ktarpeyk@archive.org",
+			"gender": "Agender",
+			"class": 1
+		},
+		{
+			"id": 22,
+			"first_name": "Reba",
+			"last_name": "Paal",
+			"email": "rpaall@nhs.uk",
+			"gender": "Polygender",
+			"class": 2
+		},
+		{
+			"id": 23,
+			"first_name": "Cristabel",
+			"last_name": "Schuelcke",
+			"email": "cschuelckem@bbc.co.uk",
+			"gender": "Polygender",
+			"class": 5
+		},
+		{
+			"id": 24,
+			"first_name": "Danell",
+			"last_name": "Maddams",
+			"email": "dmaddamsn@clickbank.net",
+			"gender": "Female",
+			"class": 1
+		},
+		{
+			"id": 25,
+			"first_name": "Ansel",
+			"last_name": "Bernli",
+			"email": "abernlio@zimbio.com",
+			"gender": "Polygender",
+			"class": 6
+		},
+		{
+			"id": 26,
+			"first_name": "Windham",
+			"last_name": "Mulligan",
+			"email": "wmulliganp@boston.com",
+			"gender": "Genderfluid",
+			"class": 2
+		},
+		{
+			"id": 27,
+			"first_name": "Zarla",
+			"last_name": "Landeg",
+			"email": "zlandegq@list-manage.com",
+			"gender": "Genderqueer",
+			"class": 6
+		},
+		{
+			"id": 28,
+			"first_name": "Wenonah",
+			"last_name": "Coldtart",
+			"email": "wcoldtartr@tamu.edu",
+			"gender": "Female",
+			"class": 3
+		},
+		{
+			"id": 29,
+			"first_name": "Sabine",
+			"last_name": "Donahue",
+			"email": "sdonahues@mysql.com",
+			"gender": "Genderfluid",
+			"class": 2
+		},
+		{
+			"id": 30,
+			"first_name": "Welsh",
+			"last_name": "Filon",
+			"email": "wfilont@amazon.co.jp",
+			"gender": "Polygender",
+			"class": 1
+		},
+		{
+			"id": 31,
+			"first_name": "Barnard",
+			"last_name": "Caswall",
+			"email": "bcaswallu@nhs.uk",
+			"gender": "Non-binary",
+			"class": 5
+		},
+		{
+			"id": 32,
+			"first_name": "Aharon",
+			"last_name": "Bonnefin",
+			"email": "abonnefinv@sbwire.com",
+			"gender": "Bigender",
+			"class": 2
+		},
+		{
+			"id": 33,
+			"first_name": "Trude",
+			"last_name": "Huckstepp",
+			"email": "thucksteppw@jigsy.com",
+			"gender": "Non-binary",
+			"class": 5
+		},
+		{
+			"id": 34,
+			"first_name": "Noe",
+			"last_name": "Lanphere",
+			"email": "nlanpherex@ehow.com",
+			"gender": "Genderfluid",
+			"class": 1
+		},
+		{
+			"id": 35,
+			"first_name": "Emyle",
+			"last_name": "Joyce",
+			"email": "ejoycey@nih.gov",
+			"gender": "Genderqueer",
+			"class": 4
+		},
+		{
+			"id": 36,
+			"first_name": "Perl",
+			"last_name": "Yurkevich",
+			"email": "pyurkevichz@exblog.jp",
+			"gender": "Genderfluid",
+			"class": 5
+		},
+		{
+			"id": 37,
+			"first_name": "Kimberly",
+			"last_name": "Broune",
+			"email": "kbroune10@kickstarter.com",
+			"gender": "Bigender",
+			"class": 1
+		},
+		{
+			"id": 38,
+			"first_name": "Hy",
+			"last_name": "Bemwell",
+			"email": "hbemwell11@sohu.com",
+			"gender": "Genderfluid",
+			"class": 2
+		},
+		{
+			"id": 39,
+			"first_name": "Mahala",
+			"last_name": "Esherwood",
+			"email": "mesherwood12@twitpic.com",
+			"gender": "Genderfluid",
+			"class": 3
+		},
+		{
+			"id": 40,
+			"first_name": "Winnie",
+			"last_name": "Caw",
+			"email": "wcaw13@alexa.com",
+			"gender": "Genderqueer",
+			"class": 2
+		},
+		{
+			"id": 41,
+			"first_name": "Meyer",
+			"last_name": "Blagburn",
+			"email": "mblagburn14@geocities.jp",
+			"gender": "Non-binary",
+			"class": 5
+		},
+		{
+			"id": 42,
+			"first_name": "Jobyna",
+			"last_name": "Chantrell",
+			"email": "jchantrell15@army.mil",
+			"gender": "Genderqueer",
+			"class": 2
+		},
+		{
+			"id": 43,
+			"first_name": "Nessi",
+			"last_name": "Loweth",
+			"email": "nloweth16@hugedomains.com",
+			"gender": "Female",
+			"class": 3
+		},
+		{
+			"id": 44,
+			"first_name": "Ashli",
+			"last_name": "Milmore",
+			"email": "amilmore17@usnews.com",
+			"gender": "Genderqueer",
+			"class": 5
+		},
+		{
+			"id": 45,
+			"first_name": "Ricca",
+			"last_name": "Mayte",
+			"email": "rmayte18@rakuten.co.jp",
+			"gender": "Female",
+			"class": 4
+		},
+		{
+			"id": 46,
+			"first_name": "Marketa",
+			"last_name": "Johnsee",
+			"email": "mjohnsee19@nydailynews.com",
+			"gender": "Polygender",
+			"class": 5
+		},
+		{
+			"id": 47,
+			"first_name": "Nap",
+			"last_name": "Hablot",
+			"email": "nhablot1a@zdnet.com",
+			"gender": "Bigender",
+			"class": 2
+		},
+		{
+			"id": 48,
+			"first_name": "Jacky",
+			"last_name": "Filby",
+			"email": "jfilby1b@reverbnation.com",
+			"gender": "Genderqueer",
+			"class": 2
+		},
+		{
+			"id": 49,
+			"first_name": "Cassie",
+			"last_name": "Hartas",
+			"email": "chartas1c@skyrock.com",
+			"gender": "Agender",
+			"class": 2
+		},
+		{
+			"id": 50,
+			"first_name": "Bobbie",
+			"last_name": "Dimmick",
+			"email": "bdimmick1d@addthis.com",
+			"gender": "Bigender",
+			"class": 3
+		},
+		{
+			"id": 51,
+			"first_name": "Cory",
+			"last_name": "Lenin",
+			"email": "clenin1e@mayoclinic.com",
+			"gender": "Male",
+			"class": 1
+		},
+		{
+			"id": 52,
+			"first_name": "Frankie",
+			"last_name": "Eddicott",
+			"email": "feddicott1f@qq.com",
+			"gender": "Non-binary",
+			"class": 5
+		},
+		{
+			"id": 53,
+			"first_name": "Dory",
+			"last_name": "Karpenya",
+			"email": "dkarpenya1g@google.com.br",
+			"gender": "Bigender",
+			"class": 1
+		},
+		{
+			"id": 54,
+			"first_name": "Artemas",
+			"last_name": "Burgill",
+			"email": "aburgill1h@zimbio.com",
+			"gender": "Agender",
+			"class": 5
+		},
+		{
+			"id": 55,
+			"first_name": "Zandra",
+			"last_name": "Henrichs",
+			"email": "zhenrichs1i@usatoday.com",
+			"gender": "Polygender",
+			"class": 2
+		},
+		{
+			"id": 56,
+			"first_name": "Bernette",
+			"last_name": "Enstone",
+			"email": "benstone1j@samsung.com",
+			"gender": "Agender",
+			"class": 1
+		},
+		{
+			"id": 57,
+			"first_name": "Bond",
+			"last_name": "Vela",
+			"email": "bvela1k@theatlantic.com",
+			"gender": "Agender",
+			"class": 5
+		},
+		{
+			"id": 58,
+			"first_name": "Danika",
+			"last_name": "Edgett",
+			"email": "dedgett1l@zdnet.com",
+			"gender": "Genderfluid",
+			"class": 1
+		},
+		{
+			"id": 59,
+			"first_name": "Sigismund",
+			"last_name": "Burgise",
+			"email": "sburgise1m@artisteer.com",
+			"gender": "Genderqueer",
+			"class": 6
+		},
+		{
+			"id": 60,
+			"first_name": "Clerkclaude",
+			"last_name": "Bodechon",
+			"email": "cbodechon1n@trellian.com",
+			"gender": "Bigender",
+			"class": 2
+		},
+		{
+			"id": 61,
+			"first_name": "Alphonso",
+			"last_name": "Yurenev",
+			"email": "ayurenev1o@foxnews.com",
+			"gender": "Polygender",
+			"class": 5
+		},
+		{
+			"id": 62,
+			"first_name": "Bree",
+			"last_name": "Dono",
+			"email": "bdono1p@nifty.com",
+			"gender": "Male",
+			"class": 5
+		},
+		{
+			"id": 63,
+			"first_name": "Chelsae",
+			"last_name": "Booth",
+			"email": "cbooth1q@furl.net",
+			"gender": "Non-binary",
+			"class": 4
+		},
+		{
+			"id": 64,
+			"first_name": "Coletta",
+			"last_name": "Duckworth",
+			"email": "cduckworth1r@meetup.com",
+			"gender": "Genderfluid",
+			"class": 3
+		},
+		{
+			"id": 65,
+			"first_name": "Berny",
+			"last_name": "Redish",
+			"email": "bredish1s@amazonaws.com",
+			"gender": "Agender",
+			"class": 2
+		},
+		{
+			"id": 66,
+			"first_name": "Pennie",
+			"last_name": "Warden",
+			"email": "pwarden1t@goodreads.com",
+			"gender": "Female",
+			"class": 5
+		},
+		{
+			"id": 67,
+			"first_name": "Rosalinda",
+			"last_name": "Cruden",
+			"email": "rcruden1u@fotki.com",
+			"gender": "Polygender",
+			"class": 1
+		},
+		{
+			"id": 68,
+			"first_name": "Shel",
+			"last_name": "Pendergrast",
+			"email": "spendergrast1v@hp.com",
+			"gender": "Male",
+			"class": 4
+		},
+		{
+			"id": 69,
+			"first_name": "Tori",
+			"last_name": "Westrip",
+			"email": "twestrip1w@printfriendly.com",
+			"gender": "Male",
+			"class": 4
+		},
+		{
+			"id": 70,
+			"first_name": "Janeta",
+			"last_name": "Jeannin",
+			"email": "jjeannin1x@php.net",
+			"gender": "Polygender",
+			"class": 1
+		},
+		{
+			"id": 71,
+			"first_name": "Erich",
+			"last_name": "Matthesius",
+			"email": "ematthesius1y@statcounter.com",
+			"gender": "Male",
+			"class": 3
+		},
+		{
+			"id": 72,
+			"first_name": "Prentiss",
+			"last_name": "Wagerfield",
+			"email": "pwagerfield1z@shinystat.com",
+			"gender": "Agender",
+			"class": 2
+		},
+		{
+			"id": 73,
+			"first_name": "Marinna",
+			"last_name": "Norridge",
+			"email": "mnorridge20@purevolume.com",
+			"gender": "Non-binary",
+			"class": 5
+		},
+		{
+			"id": 74,
+			"first_name": "Richart",
+			"last_name": "McCunn",
+			"email": "rmccunn21@mediafire.com",
+			"gender": "Agender",
+			"class": 3
+		},
+		{
+			"id": 75,
+			"first_name": "Danice",
+			"last_name": "Kunat",
+			"email": "dkunat22@istockphoto.com",
+			"gender": "Polygender",
+			"class": 1
+		},
+		{
+			"id": 76,
+			"first_name": "Consuela",
+			"last_name": "Ashlee",
+			"email": "cashlee23@deliciousdays.com",
+			"gender": "Bigender",
+			"class": 2
+		},
+		{
+			"id": 77,
+			"first_name": "Izak",
+			"last_name": "Heasley",
+			"email": "iheasley24@livejournal.com",
+			"gender": "Bigender",
+			"class": 1
+		},
+		{
+			"id": 78,
+			"first_name": "Milly",
+			"last_name": "Boxall",
+			"email": "mboxall25@mapquest.com",
+			"gender": "Non-binary",
+			"class": 3
+		},
+		{
+			"id": 79,
+			"first_name": "Doro",
+			"last_name": "Szachniewicz",
+			"email": "dszachniewicz26@oakley.com",
+			"gender": "Bigender",
+			"class": 1
+		},
+		{
+			"id": 80,
+			"first_name": "Paddy",
+			"last_name": "Samways",
+			"email": "psamways27@ucoz.ru",
+			"gender": "Female",
+			"class": 4
+		},
+		{
+			"id": 81,
+			"first_name": "Roddie",
+			"last_name": "Matijevic",
+			"email": "rmatijevic28@digg.com",
+			"gender": "Polygender",
+			"class": 6
+		},
+		{
+			"id": 82,
+			"first_name": "Daveen",
+			"last_name": "Farlow",
+			"email": "dfarlow29@sciencedirect.com",
+			"gender": "Male",
+			"class": 4
+		},
+		{
+			"id": 83,
+			"first_name": "Carmine",
+			"last_name": "Attwoul",
+			"email": "cattwoul2a@youtube.com",
+			"gender": "Male",
+			"class": 2
+		},
+		{
+			"id": 84,
+			"first_name": "Binky",
+			"last_name": "Cheek",
+			"email": "bcheek2b@si.edu",
+			"gender": "Polygender",
+			"class": 2
+		},
+		{
+			"id": 85,
+			"first_name": "Burtie",
+			"last_name": "Cawthry",
+			"email": "bcawthry2c@examiner.com",
+			"gender": "Bigender",
+			"class": 4
+		},
+		{
+			"id": 86,
+			"first_name": "Frayda",
+			"last_name": "Lathaye",
+			"email": "flathaye2d@imgur.com",
+			"gender": "Bigender",
+			"class": 5
+		},
+		{
+			"id": 87,
+			"first_name": "Nicoli",
+			"last_name": "Lupson",
+			"email": "nlupson2e@paginegialle.it",
+			"gender": "Male",
+			"class": 1
+		},
+		{
+			"id": 88,
+			"first_name": "Sharia",
+			"last_name": "Stanyan",
+			"email": "sstanyan2f@earthlink.net",
+			"gender": "Male",
+			"class": 4
+		},
+		{
+			"id": 89,
+			"first_name": "Marris",
+			"last_name": "Grioli",
+			"email": "mgrioli2g@intel.com",
+			"gender": "Genderqueer",
+			"class": 2
+		},
+		{
+			"id": 90,
+			"first_name": "Rene",
+			"last_name": "Gegay",
+			"email": "rgegay2h@time.com",
+			"gender": "Bigender",
+			"class": 2
+		},
+		{
+			"id": 91,
+			"first_name": "Anya",
+			"last_name": "Whysall",
+			"email": "awhysall2i@deviantart.com",
+			"gender": "Non-binary",
+			"class": 1
+		},
+		{
+			"id": 92,
+			"first_name": "Sarajane",
+			"last_name": "Trill",
+			"email": "strill2j@etsy.com",
+			"gender": "Bigender",
+			"class": 4
+		},
+		{
+			"id": 93,
+			"first_name": "Gloria",
+			"last_name": "Aggott",
+			"email": "gaggott2k@mlb.com",
+			"gender": "Genderfluid",
+			"class": 5
+		},
+		{
+			"id": 94,
+			"first_name": "Engracia",
+			"last_name": "McBeith",
+			"email": "emcbeith2l@paypal.com",
+			"gender": "Bigender",
+			"class": 3
+		},
+		{
+			"id": 95,
+			"first_name": "Kiele",
+			"last_name": "O'Lenechan",
+			"email": "kolenechan2m@statcounter.com",
+			"gender": "Male",
+			"class": 6
+		},
+		{
+			"id": 96,
+			"first_name": "Flynn",
+			"last_name": "Sire",
+			"email": "fsire2n@istockphoto.com",
+			"gender": "Non-binary",
+			"class": 2
+		},
+		{
+			"id": 97,
+			"first_name": "Jack",
+			"last_name": "Pellatt",
+			"email": "jpellatt2o@topsy.com",
+			"gender": "Bigender",
+			"class": 3
+		},
+		{
+			"id": 98,
+			"first_name": "Hoebart",
+			"last_name": "Molloy",
+			"email": "hmolloy2p@prlog.org",
+			"gender": "Genderqueer",
+			"class": 6
+		},
+		{
+			"id": 99,
+			"first_name": "Ferrell",
+			"last_name": "Ding",
+			"email": "fding2q@mozilla.org",
+			"gender": "Male",
+			"class": 5
+		},
+		{
+			"id": 100,
+			"first_name": "Virgina",
+			"last_name": "Culcheth",
+			"email": "vculcheth2r@sina.com.cn",
+			"gender": "Agender",
+			"class": 1
+		}
+	]
+}
